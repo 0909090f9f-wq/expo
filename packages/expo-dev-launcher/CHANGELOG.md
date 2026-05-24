@@ -8,7 +8,7 @@
 
 ### 🐛 Bug fixes
 
-- [iOS] Declare matching `outputPaths` on build phase to prevent a dependency cycle when the main target embeds an app extension. ([#46204](https://github.com/expo/expo/issues/46204) by [@alanjhughes](https://github.com/alanjhughes))
+- [iOS] Declare matching `outputPaths` on build phase to prevent a dependency cycle when the main target embeds an app extension. ([#46224](https://github.com/expo/expo/pull/46224) by [@alanjhughes](https://github.com/alanjhughes))
 
 ### 💡 Others
 
